@@ -117,5 +117,3 @@ class Vacancy:
     def snippet(self):
         """Метод получения описания вакансии"""
         return self.__snippet
-
-

@@ -1,5 +1,4 @@
 import json
-import os
 
 from src.base_json_saver import BaseJSONSaver
 from src.vacancy import Vacancy

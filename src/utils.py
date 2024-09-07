@@ -1,7 +1,3 @@
-from src.json_saver import JSONSaver
-from src.vacancy import Vacancy
-
-
 def filter_vacancies(vacancies_list: list, filter_words: list) -> list:
     """Функция фильтрует вакансии по ключевым словам"""
     filtered_vacancies = []
